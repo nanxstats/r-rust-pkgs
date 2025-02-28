@@ -8,12 +8,12 @@ temp_dir <- tempfile()
 dir.create(temp_dir)
 description_files <- file.path(temp_dir, package_names)
 
-# Download package descriptions in batches of 1000
+# Download DESCRIPTION files in batches
 curl::multi_set(total_con = 10)
 batch_size <- 1000
 num_batches <- ceiling(length(description_urls) / batch_size)
 
-for (i in 1:num_batches) {
+for (i in seq_len(num_batches)) {
   start_idx <- ((i - 1) * batch_size) + 1
   end_idx <- min(i * batch_size, length(description_urls))
 
@@ -28,7 +28,7 @@ for (i in 1:num_batches) {
   }
 }
 
-# Parse description files without maxing out connections
+# Parse DESCRIPTION files
 package_descriptions <- vector("list", length(package_names))
 for (i in seq_along(description_files)) {
   con <- file(description_files[i], "r")
@@ -46,7 +46,7 @@ system_requirements <- sapply(package_descriptions, "[[", 2)
 # Filter packages with "Cargo" in system requirements
 rust_packages_idx <- grepl(x = system_requirements, pattern = "Cargo", ignore.case = TRUE)
 
-# Extract details for Rust packages
+# Extract package details
 rust_packages <- package_names[rust_packages_idx]
 rust_packages_urls <- paste0("https://cran.r-project.org/package=", rust_packages)
 rust_packages_titles <- package_titles[rust_packages_idx]
@@ -83,8 +83,11 @@ for (letter in unique_letters) {
   letter_pkgs <- pkg_data[pkg_data$first_letter == letter, ]
 
   # Add each package as a list item
-  for (i in 1:nrow(letter_pkgs)) {
-    pkg_line <- paste0("- [", letter_pkgs$name[i], "](", letter_pkgs$link[i], ") - ", letter_pkgs$title[i], "\n")
+  for (i in seq_len(nrow(letter_pkgs))) {
+    pkg_line <- paste0(
+      "- [", letter_pkgs$name[i], "](", letter_pkgs$link[i], ") - ",
+      letter_pkgs$title[i], "\n"
+    )
     markdown_output <- paste0(markdown_output, pkg_line)
   }
 
@@ -92,5 +95,5 @@ for (letter in unique_letters) {
   markdown_output <- paste0(markdown_output, "\n")
 }
 
-# Output the markdown content
+# Output the Markdown content
 cat(markdown_output)
