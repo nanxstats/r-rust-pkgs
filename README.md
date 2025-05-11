@@ -10,6 +10,8 @@ This is a list of all R packages using Rust on CRAN.
 
 ## A
 
+- [arcgis](https://cran.r-project.org/package=arcgis) - ArcGIS Location
+  Services Meta-Package
 - [arcgisgeocode](https://cran.r-project.org/package=arcgisgeocode) - A
   Robust Interface to ArcGIS ‘Geocoding Services’
 - [arcgisplaces](https://cran.r-project.org/package=arcgisplaces) -
@@ -43,6 +45,8 @@ This is a list of all R packages using Rust on CRAN.
 
 ## G
 
+- [gglinedensity](https://cran.r-project.org/package=gglinedensity) -
+  Make DenseLines Heatmaps with ‘ggplot2’
 - [gifski](https://cran.r-project.org/package=gifski) - Highest Quality
   GIF Encoder
 
@@ -52,6 +56,11 @@ This is a list of all R packages using Rust on CRAN.
   String Case Converter
 - [hellorust](https://cran.r-project.org/package=hellorust) - Minimal
   Examples of Using Rust Code in R
+
+## O
+
+- [orbweaver](https://cran.r-project.org/package=orbweaver) - Fast and
+  Efficient Graph Data Structures
 
 ## P
 
@@ -86,6 +95,11 @@ This is a list of all R packages using Rust on CRAN.
   Fast
 - [tomledit](https://cran.r-project.org/package=tomledit) - Parse, Read,
   and Edit ‘TOML’
+
+## X
+
+- [xactonomial](https://cran.r-project.org/package=xactonomial) -
+  Inference for Functions of Multinomial Parameters
 
 ## Y
 
