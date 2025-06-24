@@ -20,6 +20,8 @@ This is a list of all R packages using Rust on CRAN.
   Utility Functions
 - [arcpbf](https://cran.r-project.org/package=arcpbf) - Process ArcGIS
   Protocol Buffer FeatureCollections
+- [astgrepr](https://cran.r-project.org/package=astgrepr) - Parse and
+  Manipulate R Code
 - [awdb](https://cran.r-project.org/package=awdb) - Query the USDA NWCC
   Air and Water Database REST API
 
@@ -82,8 +84,6 @@ This is a list of all R packages using Rust on CRAN.
 
 - [salso](https://cran.r-project.org/package=salso) - Search Algorithms
   and Loss Functions for Bayesian Clustering
-- [smcryptoR](https://cran.r-project.org/package=smcryptoR) -
-  ShangMi(SM) Cryptographic Algorithms(SM2/SM3/SM4)
 - [SQLFormatteR](https://cran.r-project.org/package=SQLFormatteR) -
   Format SQL Queries
 - [string2path](https://cran.r-project.org/package=string2path) -
@@ -95,6 +95,11 @@ This is a list of all R packages using Rust on CRAN.
   Fast
 - [tomledit](https://cran.r-project.org/package=tomledit) - Parse, Read,
   and Edit ‘TOML’
+
+## U
+
+- [unsum](https://cran.r-project.org/package=unsum) - Reconstruct Raw
+  Data from Summary Statistics
 
 ## X
 
