@@ -34,6 +34,8 @@ This is a list of all R packages using Rust on CRAN.
 
 - [caviarpd](https://cran.r-project.org/package=caviarpd) - Cluster
   Analysis via Random Partition Distributions
+- [ciflyr](https://cran.r-project.org/package=ciflyr) -
+  Reachability-Based Primitives for Graphical Causal Inference
 - [clarabel](https://cran.r-project.org/package=clarabel) - Interior
   Point Conic Optimization Solver
 
