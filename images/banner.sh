@@ -1,13 +1,13 @@
 # brew install imagemagick
-# brew install --cask font-cascadia-code
+# brew install --cask font-firago
 magick -size 2048x734 \
   -define gradient:angle=330 \gradient:#028cf3-#2feaa8 \
   -gravity center \
-  -pointsize 100 \
-  -font 'JetBrains-Mono-Bold' \
+  -pointsize 120 \
+  -font 'FiraGO-SemiBold' \
   -fill white \
   -annotate +0-80 'r-rust-pkgs' \
-  -pointsize 40 \
-  -font 'JetBrains-Mono-Regular' \
-  -annotate +0+60 'Performance · Reliability · Productivity' \
+  -pointsize 50 \
+  -font 'FiraGO-Book' \
+  -annotate +0+100 'Performance · Reliability · Productivity' \
   png:- | pngquant - --force --output images/banner.png
