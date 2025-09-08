@@ -39,6 +39,11 @@ This is a list of all R packages using Rust on CRAN.
 - [clarabel](https://cran.r-project.org/package=clarabel) - Interior
   Point Conic Optimization Solver
 
+## D
+
+- [datefixR](https://cran.r-project.org/package=datefixR) - Standardize
+  Dates in Different Formats or with Missing Data
+
 ## F
 
 - [fangs](https://cran.r-project.org/package=fangs) - Feature Allocation
@@ -49,6 +54,8 @@ This is a list of all R packages using Rust on CRAN.
 
 ## G
 
+- [gadjid](https://cran.r-project.org/package=gadjid) - Graph Adjustment
+  Identification Distances for Causal Graphs
 - [gglinedensity](https://cran.r-project.org/package=gglinedensity) -
   Make DenseLines Heatmaps with ‘ggplot2’
 - [gifski](https://cran.r-project.org/package=gifski) - Highest Quality
@@ -56,6 +63,8 @@ This is a list of all R packages using Rust on CRAN.
 
 ## H
 
+- [h3o](https://cran.r-project.org/package=h3o) - H3 Geospatial Indexing
+  System
 - [heck](https://cran.r-project.org/package=heck) - Highly Performant
   String Case Converter
 - [hellorust](https://cran.r-project.org/package=hellorust) - Minimal
@@ -86,6 +95,8 @@ This is a list of all R packages using Rust on CRAN.
 
 - [salso](https://cran.r-project.org/package=salso) - Search Algorithms
   and Loss Functions for Bayesian Clustering
+- [socratadata](https://cran.r-project.org/package=socratadata) -
+  Explore Socrata Data with Ease
 - [SQLFormatteR](https://cran.r-project.org/package=SQLFormatteR) -
   Format SQL Queries
 - [string2path](https://cran.r-project.org/package=string2path) -
@@ -95,6 +106,7 @@ This is a list of all R packages using Rust on CRAN.
 
 - [tergo](https://cran.r-project.org/package=tergo) - Style Your Code
   Fast
+- [tok](https://cran.r-project.org/package=tok) - Fast Text Tokenization
 - [tomledit](https://cran.r-project.org/package=tomledit) - Parse, Read,
   and Edit ‘TOML’
 
