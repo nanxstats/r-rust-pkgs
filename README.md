@@ -16,8 +16,8 @@ This is a list of all R packages using Rust on CRAN.
   Robust Interface to ArcGIS ‘Geocoding Services’
 - [arcgisplaces](https://cran.r-project.org/package=arcgisplaces) -
   Search for POIs using ArcGIS ‘Places Service’
-- [arcgisutils](https://cran.r-project.org/package=arcgisutils) - ArcGIS
-  Utility Functions
+- [arcgisutils](https://cran.r-project.org/package=arcgisutils) -
+  R-ArcGIS Bridge Utility Functions
 - [arcpbf](https://cran.r-project.org/package=arcpbf) - Process ArcGIS
   Protocol Buffer FeatureCollections
 - [astgrepr](https://cran.r-project.org/package=astgrepr) - Parse and
@@ -86,6 +86,8 @@ This is a list of all R packages using Rust on CRAN.
   Around the ‘BM25’ ‘Rust’ Crate for Okapi BM25 Text Search
 - [rextendr](https://cran.r-project.org/package=rextendr) - Call Rust
   Code from R using the ‘extendr’ Crate
+- [rsamplr](https://cran.r-project.org/package=rsamplr) - Sampling
+  Algorithms and Spatially Balanced Sampling
 - [rshift](https://cran.r-project.org/package=rshift) - Paleoecology
   Functions for Regime Shift Analysis
 - [rtiktoken](https://cran.r-project.org/package=rtiktoken) - A
