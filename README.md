@@ -86,6 +86,8 @@ This is a list of all R packages using Rust on CRAN.
   Around the ‘BM25’ ‘Rust’ Crate for Okapi BM25 Text Search
 - [rextendr](https://cran.r-project.org/package=rextendr) - Call Rust
   Code from R using the ‘extendr’ Crate
+- [RPesto](https://cran.r-project.org/package=RPesto) - Phylogenetic
+  Estimation of Shifts in the Tempo of Origination
 - [rsamplr](https://cran.r-project.org/package=rsamplr) - Sampling
   Algorithms and Spatially Balanced Sampling
 - [rshift](https://cran.r-project.org/package=rshift) - Paleoecology
