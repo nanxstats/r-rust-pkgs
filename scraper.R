@@ -28,11 +28,27 @@ for (i in seq_len(num_batches)) {
   }
 }
 
+# Wrapper that tolerates malformed DESCRIPTION files (e.g., HTML error pages).
+read_dcf <- function(...) {
+  tryCatch(
+    read.dcf(...),
+    error = function(e) {
+      fields <- list(...)[["fields"]]
+      matrix(
+        NA_character_,
+        nrow = 1,
+        ncol = length(fields),
+        dimnames = list(NULL, fields)
+      )
+    }
+  )
+}
+
 # Parse DESCRIPTION files
 package_descriptions <- vector("list", length(package_names))
 for (i in seq_along(description_files)) {
   con <- file(description_files[i], "r")
-  package_descriptions[[i]] <- as.list(read.dcf(
+  package_descriptions[[i]] <- as.list(read_dcf(
     file = con,
     fields = c("Title", "SystemRequirements")
   ))
