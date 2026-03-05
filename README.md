@@ -22,16 +22,22 @@ This is a list of all R packages using Rust on CRAN.
   Protocol Buffer FeatureCollections
 - [astgrepr](https://cran.r-project.org/package=astgrepr) - Parse and
   Manipulate R Code
+- [automerge](https://cran.r-project.org/package=automerge) - R Bindings
+  for ‘Automerge’ ‘CRDT’ Library
 - [awdb](https://cran.r-project.org/package=awdb) - Query the USDA NWCC
   Air and Water Database REST API
 
 ## B
 
+- [b32](https://cran.r-project.org/package=b32) - Fast and Vectorized
+  Base32 Encoding
 - [b64](https://cran.r-project.org/package=b64) - Fast and Vectorized
   Base 64 Engine
 
 ## C
 
+- [caugi](https://cran.r-project.org/package=caugi) - Causal Graph
+  Interface
 - [caviarpd](https://cran.r-project.org/package=caviarpd) - Cluster
   Analysis via Random Partition Distributions
 - [ciflyr](https://cran.r-project.org/package=ciflyr) -
@@ -44,13 +50,23 @@ This is a list of all R packages using Rust on CRAN.
 - [datefixR](https://cran.r-project.org/package=datefixR) - Standardize
   Dates in Different Formats or with Missing Data
 
+## E
+
+- [enderecobr](https://cran.r-project.org/package=enderecobr) -
+  Padronizador de Endereços Brasileiros (Brazilian Addresses
+  Standardizer)
+
 ## F
 
 - [fangs](https://cran.r-project.org/package=fangs) - Feature Allocation
   Neighborhood Greedy Search Algorithm
+- [fastgeojson](https://cran.r-project.org/package=fastgeojson) -
+  High-Performance ‘GeoJSON’ and ‘JSON’ Serialization
 - [fcl](https://cran.r-project.org/package=fcl) - A Financial Calculator
 - [fio](https://cran.r-project.org/package=fio) - Friendly Input-Output
   Analysis
+- [fru](https://cran.r-project.org/package=fru) - A Blazing Fast
+  Implementation of Random Forest
 
 ## G
 
@@ -86,6 +102,8 @@ This is a list of all R packages using Rust on CRAN.
   Around the ‘BM25’ ‘Rust’ Crate for Okapi BM25 Text Search
 - [rextendr](https://cran.r-project.org/package=rextendr) - Call Rust
   Code from R using the ‘extendr’ Crate
+- [roxigraph](https://cran.r-project.org/package=roxigraph) - ‘RDF’ and
+  ‘SPARQL’ for R using ‘Oxigraph’
 - [RPesto](https://cran.r-project.org/package=RPesto) - Phylogenetic
   Estimation of Shifts in the Tempo of Origination
 - [rsamplr](https://cran.r-project.org/package=rsamplr) - Sampling
@@ -110,6 +128,8 @@ This is a list of all R packages using Rust on CRAN.
 
 - [tergo](https://cran.r-project.org/package=tergo) - Style Your Code
   Fast
+- [tinyimg](https://cran.r-project.org/package=tinyimg) - Optimize and
+  Compress Images
 - [tok](https://cran.r-project.org/package=tok) - Fast Text Tokenization
 - [tomledit](https://cran.r-project.org/package=tomledit) - Parse, Read,
   and Edit ‘TOML’
@@ -119,6 +139,11 @@ This is a list of all R packages using Rust on CRAN.
 - [unsum](https://cran.r-project.org/package=unsum) - Reconstruct Raw
   Data from Summary Statistics
 
+## W
+
+- [waysign](https://cran.r-project.org/package=waysign) - Multi-Purpose
+  and High-Performance Routing
+
 ## X
 
 - [xactonomial](https://cran.r-project.org/package=xactonomial) -
@@ -126,6 +151,8 @@ This is a list of all R packages using Rust on CRAN.
 
 ## Y
 
+- [yaml12](https://cran.r-project.org/package=yaml12) - Fast ‘YAML’ 1.2
+  Parser and Formatter
 - [ymd](https://cran.r-project.org/package=ymd) - Parse ‘YMD’ Format
   Number or String to Date
 
