@@ -10,6 +10,8 @@ This is a list of all R packages using Rust on CRAN.
 
 ## A
 
+- [a5R](https://cran.r-project.org/package=a5R) - ‘A5’ Discrete Global
+  Grid System
 - [arcgis](https://cran.r-project.org/package=arcgis) - ArcGIS Location
   Services Meta-Package
 - [arcgisgeocode](https://cran.r-project.org/package=arcgisgeocode) - A
@@ -65,6 +67,8 @@ This is a list of all R packages using Rust on CRAN.
 - [fcl](https://cran.r-project.org/package=fcl) - A Financial Calculator
 - [fio](https://cran.r-project.org/package=fio) - Friendly Input-Output
   Analysis
+- [fozziejoin](https://cran.r-project.org/package=fozziejoin) -
+  Utilities for Joining Dataframes with Inexact Matching
 - [fru](https://cran.r-project.org/package=fru) - A Blazing Fast
   Implementation of Random Forest
 
@@ -85,6 +89,16 @@ This is a list of all R packages using Rust on CRAN.
   String Case Converter
 - [hellorust](https://cran.r-project.org/package=hellorust) - Minimal
   Examples of Using Rust Code in R
+
+## L
+
+- [llmjson](https://cran.r-project.org/package=llmjson) - Repair
+  Malformed JSON Strings
+
+## M
+
+- [ml](https://cran.r-project.org/package=ml) - Supervised Learning with
+  Mandatory Splits and Seeds
 
 ## O
 
@@ -133,11 +147,15 @@ This is a list of all R packages using Rust on CRAN.
 - [tok](https://cran.r-project.org/package=tok) - Fast Text Tokenization
 - [tomledit](https://cran.r-project.org/package=tomledit) - Parse, Read,
   and Edit ‘TOML’
+- [tynding](https://cran.r-project.org/package=tynding) - ‘Typst’
+  Bindings
 
 ## U
 
 - [unsum](https://cran.r-project.org/package=unsum) - Reconstruct Raw
   Data from Summary Statistics
+- [uuidx](https://cran.r-project.org/package=uuidx) - Modern UUIDs for R
+  with a Rust Backend
 
 ## W
 
