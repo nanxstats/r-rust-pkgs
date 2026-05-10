@@ -69,6 +69,8 @@ This is a list of all R packages using Rust on CRAN.
   Analysis
 - [fozziejoin](https://cran.r-project.org/package=fozziejoin) -
   Utilities for Joining Dataframes with Inexact Matching
+- [freestiler](https://cran.r-project.org/package=freestiler) - Create
+  Vector Tiles from Spatial Data
 - [fru](https://cran.r-project.org/package=fru) - A Blazing Fast
   Implementation of Random Forest
 
@@ -114,8 +116,8 @@ This is a list of all R packages using Rust on CRAN.
 
 - [rbm25](https://cran.r-project.org/package=rbm25) - A Light Wrapper
   Around the ‘BM25’ ‘Rust’ Crate for Okapi BM25 Text Search
-- [rextendr](https://cran.r-project.org/package=rextendr) - Call Rust
-  Code from R using the ‘extendr’ Crate
+- [rextendr](https://cran.r-project.org/package=rextendr) - Build ‘Rust’
+  Powered ‘R’ Packages
 - [roxigraph](https://cran.r-project.org/package=roxigraph) - ‘RDF’ and
   ‘SPARQL’ for R using ‘Oxigraph’
 - [RPesto](https://cran.r-project.org/package=RPesto) - Phylogenetic
@@ -133,6 +135,9 @@ This is a list of all R packages using Rust on CRAN.
   and Loss Functions for Bayesian Clustering
 - [socratadata](https://cran.r-project.org/package=socratadata) -
   Explore Socrata Data with Ease
+- [spopt](https://cran.r-project.org/package=spopt) - Spatial
+  Optimization for Regionalization, Facility Location, and Market
+  Analysis
 - [SQLFormatteR](https://cran.r-project.org/package=SQLFormatteR) -
   Format SQL Queries
 - [string2path](https://cran.r-project.org/package=string2path) -
@@ -147,8 +152,6 @@ This is a list of all R packages using Rust on CRAN.
 - [tok](https://cran.r-project.org/package=tok) - Fast Text Tokenization
 - [tomledit](https://cran.r-project.org/package=tomledit) - Parse, Read,
   and Edit ‘TOML’
-- [tynding](https://cran.r-project.org/package=tynding) - ‘Typst’
-  Bindings
 
 ## U
 
