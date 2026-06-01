@@ -57,6 +57,8 @@ This is a list of all R packages using Rust on CRAN.
 - [enderecobr](https://cran.r-project.org/package=enderecobr) -
   Padronizador de Endereços Brasileiros (Brazilian Addresses
   Standardizer)
+- [eulerr](https://cran.r-project.org/package=eulerr) -
+  Area-Proportional Euler and Venn Diagrams with Ellipses
 
 ## F
 
@@ -80,6 +82,8 @@ This is a list of all R packages using Rust on CRAN.
   Identification Distances for Causal Graphs
 - [gglinedensity](https://cran.r-project.org/package=gglinedensity) -
   Make DenseLines Heatmaps with ‘ggplot2’
+- [ggsql](https://cran.r-project.org/package=ggsql) - Grammar of
+  Graphics for SQL
 - [gifski](https://cran.r-project.org/package=gifski) - Highest Quality
   GIF Encoder
 
@@ -94,6 +98,8 @@ This is a list of all R packages using Rust on CRAN.
 
 ## L
 
+- [libipldr](https://cran.r-project.org/package=libipldr) - R Bindings
+  to the ‘Rust’ ‘IPLD’ Library
 - [llmjson](https://cran.r-project.org/package=llmjson) - Repair
   Malformed JSON Strings
 
@@ -140,8 +146,6 @@ This is a list of all R packages using Rust on CRAN.
   Analysis
 - [SQLFormatteR](https://cran.r-project.org/package=SQLFormatteR) -
   Format SQL Queries
-- [string2path](https://cran.r-project.org/package=string2path) -
-  Rendering Font into ‘data.frame’
 
 ## T
 
@@ -149,7 +153,6 @@ This is a list of all R packages using Rust on CRAN.
   Fast
 - [tinyimg](https://cran.r-project.org/package=tinyimg) - Optimize and
   Compress Images
-- [tok](https://cran.r-project.org/package=tok) - Fast Text Tokenization
 - [tomledit](https://cran.r-project.org/package=tomledit) - Parse, Read,
   and Edit ‘TOML’
 
