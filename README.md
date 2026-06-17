@@ -12,6 +12,8 @@ This is a list of all R packages using Rust on CRAN.
 
 - [a5R](https://cran.r-project.org/package=a5R) - ‘A5’ Discrete Global
   Grid System
+- [ahocorasick](https://cran.r-project.org/package=ahocorasick) - Fast
+  Multi-Pattern String Matching with the ‘Aho-Corasick’ Algorithm
 - [arcgis](https://cran.r-project.org/package=arcgis) - ArcGIS Location
   Services Meta-Package
 - [arcgisgeocode](https://cran.r-project.org/package=arcgisgeocode) - A
@@ -86,6 +88,8 @@ This is a list of all R packages using Rust on CRAN.
   Graphics for SQL
 - [gifski](https://cran.r-project.org/package=gifski) - Highest Quality
   GIF Encoder
+- [gtfsrealtime](https://cran.r-project.org/package=gtfsrealtime) - Read
+  GTFS-Realtime Files into Data Frames
 
 ## H
 
@@ -107,6 +111,8 @@ This is a list of all R packages using Rust on CRAN.
 
 - [ml](https://cran.r-project.org/package=ml) - Supervised Learning with
   Mandatory Splits and Seeds
+- [mx.crypto](https://cran.r-project.org/package=mx.crypto) - Matrix
+  End-to-End Encryption Primitives
 
 ## O
 
@@ -139,6 +145,8 @@ This is a list of all R packages using Rust on CRAN.
 
 - [salso](https://cran.r-project.org/package=salso) - Search Algorithms
   and Loss Functions for Bayesian Clustering
+- [smoothbp](https://cran.r-project.org/package=smoothbp) - Hierarchical
+  Piecewise Regression with Smoothed Change-Points
 - [socratadata](https://cran.r-project.org/package=socratadata) -
   Explore Socrata Data with Ease
 - [spopt](https://cran.r-project.org/package=spopt) - Spatial
