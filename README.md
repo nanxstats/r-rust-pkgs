@@ -114,6 +114,11 @@ This is a list of all R packages using Rust on CRAN.
 - [mx.crypto](https://cran.r-project.org/package=mx.crypto) - Matrix
   End-to-End Encryption Primitives
 
+## N
+
+- [nirs4alldatasets](https://cran.r-project.org/package=nirs4alldatasets) -
+  Acquire Curated NIRS Reference Datasets (‘nirs4all-datasets’)
+
 ## O
 
 - [orbweaver](https://cran.r-project.org/package=orbweaver) - Fast and
@@ -121,6 +126,8 @@ This is a list of all R packages using Rust on CRAN.
 
 ## P
 
+- [pdfsigner](https://cran.r-project.org/package=pdfsigner) - Digitally
+  Sign and Verify PDF Documents
 - [prqlr](https://cran.r-project.org/package=prqlr) - R Bindings for the
   ‘prqlc’ Rust Library
 
@@ -161,6 +168,7 @@ This is a list of all R packages using Rust on CRAN.
   Fast
 - [tinyimg](https://cran.r-project.org/package=tinyimg) - Optimize and
   Compress Images
+- [tok](https://cran.r-project.org/package=tok) - Fast Text Tokenization
 - [tomledit](https://cran.r-project.org/package=tomledit) - Parse, Read,
   and Edit ‘TOML’
 
