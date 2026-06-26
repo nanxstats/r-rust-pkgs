@@ -152,6 +152,8 @@ This is a list of all R packages using Rust on CRAN.
 
 - [salso](https://cran.r-project.org/package=salso) - Search Algorithms
   and Loss Functions for Bayesian Clustering
+- [sceua](https://cran.r-project.org/package=sceua) - Shuffled Complex
+  Evolution Algorithm for Optimization
 - [smoothbp](https://cran.r-project.org/package=smoothbp) - Hierarchical
   Piecewise Regression with Smoothed Change-Points
 - [socratadata](https://cran.r-project.org/package=socratadata) -
