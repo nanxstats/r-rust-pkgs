@@ -69,6 +69,8 @@ This is a list of all R packages using Rust on CRAN.
 - [fastgeojson](https://cran.r-project.org/package=fastgeojson) -
   High-Performance ‘GeoJSON’ and ‘JSON’ Serialization
 - [fcl](https://cran.r-project.org/package=fcl) - A Financial Calculator
+- [fibr](https://cran.r-project.org/package=fibr) - Prior-Fraction
+  Diagnostics for Hierarchical Models
 - [fio](https://cran.r-project.org/package=fio) - Friendly Input-Output
   Analysis
 - [fozziejoin](https://cran.r-project.org/package=fozziejoin) -
