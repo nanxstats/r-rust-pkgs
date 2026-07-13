@@ -60,7 +60,7 @@ This is a list of all R packages using Rust on CRAN.
   Padronizador de Endereços Brasileiros (Brazilian Addresses
   Standardizer)
 - [eulerr](https://cran.r-project.org/package=eulerr) -
-  Area-Proportional Euler and Venn Diagrams with Ellipses
+  Area-Proportional Euler and Venn Diagrams
 
 ## F
 
@@ -102,6 +102,11 @@ This is a list of all R packages using Rust on CRAN.
 - [hellorust](https://cran.r-project.org/package=hellorust) - Minimal
   Examples of Using Rust Code in R
 
+## I
+
+- [ipf](https://cran.r-project.org/package=ipf) - Iterative Proportional
+  Fitting
+
 ## L
 
 - [libipldr](https://cran.r-project.org/package=libipldr) - R Bindings
@@ -116,15 +121,12 @@ This is a list of all R packages using Rust on CRAN.
 - [mx.crypto](https://cran.r-project.org/package=mx.crypto) - Matrix
   End-to-End Encryption Primitives
 
-## N
-
-- [nirs4alldatasets](https://cran.r-project.org/package=nirs4alldatasets) -
-  Acquire Curated NIRS Reference Datasets (‘nirs4all-datasets’)
-
 ## O
 
 - [orbweaver](https://cran.r-project.org/package=orbweaver) - Fast and
   Efficient Graph Data Structures
+- [osmnxr](https://cran.r-project.org/package=osmnxr) - Download, Model
+  and Analyze ‘OpenStreetMap’ Street Networks
 
 ## P
 
