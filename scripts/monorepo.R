@@ -1,5 +1,5 @@
 # Build a synthetic monorepo of the Rust-powered R packages listed in README.md.
-# The latest CRAN source tarballs are extracted into vendor/ for use as
+# The latest CRAN source tarballs are extracted into references/ for use as
 # AI coding agent references.
 #
 # Run from the repository root with:
@@ -14,7 +14,7 @@ cran <- "https://cloud.r-project.org"
 available <- available.packages(repos = cran, type = "source")
 versions <- available[packages, "Version"]
 
-dir.create("vendor", showWarnings = FALSE)
+dir.create("references", showWarnings = FALSE)
 
 message(sprintf("%d packages to download and extract.", length(packages)))
 
@@ -27,6 +27,6 @@ for (i in seq_along(packages)) {
   message(sprintf("[%d/%d] Downloading %s %s", i, length(packages), package, version))
   curl::curl_download(archive_url, archive)
   message(sprintf("[%d/%d] Extracting %s", i, length(packages), package))
-  untar(archive, exdir = "vendor")
+  untar(archive, exdir = "references")
   unlink(archive)
 }
