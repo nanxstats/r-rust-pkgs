@@ -130,8 +130,6 @@ This is a list of all R packages using Rust on CRAN.
 
 ## P
 
-- [pdfsigner](https://cran.r-project.org/package=pdfsigner) - Digitally
-  Sign and Verify PDF Documents
 - [prqlr](https://cran.r-project.org/package=prqlr) - R Bindings for the
   ‘prqlc’ Rust Library
 
@@ -145,6 +143,8 @@ This is a list of all R packages using Rust on CRAN.
   ‘SPARQL’ for R using ‘Oxigraph’
 - [RPesto](https://cran.r-project.org/package=RPesto) - Phylogenetic
   Estimation of Shifts in the Tempo of Origination
+- [rpic](https://cran.r-project.org/package=rpic) - The ‘pic’ Graphics
+  Language Rendered to SVG, PNG and PDF
 - [rsamplr](https://cran.r-project.org/package=rsamplr) - Sampling
   Algorithms and Spatially Balanced Sampling
 - [rshift](https://cran.r-project.org/package=rshift) - Paleoecology
@@ -170,6 +170,8 @@ This is a list of all R packages using Rust on CRAN.
 
 ## T
 
+- [tantivyr](https://cran.r-project.org/package=tantivyr) - Fast
+  Full-Text Search for R with ‘Tantivy’
 - [tergo](https://cran.r-project.org/package=tergo) - Style Your Code
   Fast
 - [tinyimg](https://cran.r-project.org/package=tinyimg) - Optimize and
