@@ -40,6 +40,8 @@ This is a list of all R packages using Rust on CRAN.
 
 ## C
 
+- [catmodeling](https://cran.r-project.org/package=catmodeling) -
+  Catastrophe Model Simulation and Adjustment
 - [caugi](https://cran.r-project.org/package=caugi) - Causal Graph
   Interface
 - [caviarpd](https://cran.r-project.org/package=caviarpd) - Cluster
@@ -101,11 +103,6 @@ This is a list of all R packages using Rust on CRAN.
   String Case Converter
 - [hellorust](https://cran.r-project.org/package=hellorust) - Minimal
   Examples of Using Rust Code in R
-
-## I
-
-- [ipf](https://cran.r-project.org/package=ipf) - Iterative Proportional
-  Fitting
 
 ## L
 
