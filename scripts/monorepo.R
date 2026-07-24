@@ -12,7 +12,12 @@ packages <- sub(package_pattern, "\\1", package_lines)
 
 cran <- "https://cloud.r-project.org"
 available <- available.packages(repos = cran, type = "source")
-versions <- available[packages, "Version"]
+unavailable <- setdiff(packages, rownames(available))
+
+if (length(unavailable) > 0L) message(sprintf("Skipping packages unavailable on CRAN: %s", paste(unavailable, collapse = ", ")))
+
+packages <- packages[packages %in% rownames(available)]
+versions <- setNames(available[packages, "Version"], packages)
 
 dir.create("references", showWarnings = FALSE)
 
