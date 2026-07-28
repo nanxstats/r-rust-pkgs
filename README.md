@@ -104,6 +104,11 @@ This is a list of all R packages using Rust on CRAN.
 - [hellorust](https://cran.r-project.org/package=hellorust) - Minimal
   Examples of Using Rust Code in R
 
+## J
+
+- [jsslintr](https://cran.r-project.org/package=jsslintr) - JSS
+  LaTeX/BibTeX Style Checker
+
 ## L
 
 - [libipldr](https://cran.r-project.org/package=libipldr) - R Bindings
