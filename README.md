@@ -55,6 +55,8 @@ This is a list of all R packages using Rust on CRAN.
 
 - [datefixR](https://cran.r-project.org/package=datefixR) - Standardize
   Dates in Different Formats or with Missing Data
+- [dwg2geo](https://cran.r-project.org/package=dwg2geo) - Convert
+  Engineering ‘DWG’ Drawings to Auditable ‘GeoJSON’
 
 ## E
 
@@ -104,10 +106,17 @@ This is a list of all R packages using Rust on CRAN.
 - [hellorust](https://cran.r-project.org/package=hellorust) - Minimal
   Examples of Using Rust Code in R
 
+## I
+
+- [ipf](https://cran.r-project.org/package=ipf) - Iterative Proportional
+  Fitting
+
 ## J
 
+- [jiebaRS](https://cran.r-project.org/package=jiebaRS) - Chinese Text
+  Segmentation, POS Tagging, and Keyword Extraction
 - [jsslintr](https://cran.r-project.org/package=jsslintr) - JSS
-  LaTeX/BibTeX Style Checker
+  ‘LaTeX’/‘BibTeX’ Style Checker
 
 ## L
 
@@ -132,6 +141,8 @@ This is a list of all R packages using Rust on CRAN.
 
 ## P
 
+- [polyglotSQL](https://cran.r-project.org/package=polyglotSQL) - SQL
+  Parsing, Analysis and Dialect Translation
 - [prqlr](https://cran.r-project.org/package=prqlr) - R Bindings for the
   ‘prqlc’ Rust Library
 
@@ -193,6 +204,8 @@ This is a list of all R packages using Rust on CRAN.
 
 - [waysign](https://cran.r-project.org/package=waysign) - Multi-Purpose
   and High-Performance Routing
+- [WebGestaltR](https://cran.r-project.org/package=WebGestaltR) - Gene
+  Set Analysis Toolkit WebGestaltR
 
 ## X
 
@@ -208,5 +221,7 @@ This is a list of all R packages using Rust on CRAN.
 
 ## Z
 
+- [zmij](https://cran.r-project.org/package=zmij) - Round-Trip-Safe
+  Double-Precision Formatting
 - [zoomerjoin](https://cran.r-project.org/package=zoomerjoin) -
   Superlatively Fast Fuzzy Joins
