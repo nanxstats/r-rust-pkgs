@@ -40,8 +40,6 @@ This is a list of all R packages using Rust on CRAN.
 
 ## C
 
-- [catmodeling](https://cran.r-project.org/package=catmodeling) -
-  Catastrophe Model Simulation and Adjustment
 - [caugi](https://cran.r-project.org/package=caugi) - Causal Graph
   Interface
 - [caviarpd](https://cran.r-project.org/package=caviarpd) - Cluster
