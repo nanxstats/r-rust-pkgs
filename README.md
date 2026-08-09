@@ -183,6 +183,8 @@ This is a list of all R packages using Rust on CRAN.
 
 - [tantivyr](https://cran.r-project.org/package=tantivyr) - Fast
   Full-Text Search for R with ‘Tantivy’
+- [tarpolyglot](https://cran.r-project.org/package=tarpolyglot) - Run
+  Python, Julia, and Rust Inside ‘targets’ Pipeline Steps
 - [tergo](https://cran.r-project.org/package=tergo) - Style Your Code
   Fast
 - [tinyimg](https://cran.r-project.org/package=tinyimg) - Optimize and
