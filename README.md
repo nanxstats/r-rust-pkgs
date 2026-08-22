@@ -108,6 +108,8 @@ This is a list of all R packages using Rust on CRAN.
 
 - [ipf](https://cran.r-project.org/package=ipf) - Iterative Proportional
   Fitting
+- [isodistrreg](https://cran.r-project.org/package=isodistrreg) -
+  Isotonic Distributional Regression (IDR)
 
 ## J
 
@@ -167,6 +169,8 @@ This is a list of all R packages using Rust on CRAN.
 
 - [salso](https://cran.r-project.org/package=salso) - Search Algorithms
   and Loss Functions for Bayesian Clustering
+- [scanr](https://cran.r-project.org/package=scanr) - Sequential
+  Change-Point Detection via Nonparametric Inference
 - [sceua](https://cran.r-project.org/package=sceua) - Shuffled Complex
   Evolution Algorithm for Optimization
 - [smoothbp](https://cran.r-project.org/package=smoothbp) - Hierarchical
