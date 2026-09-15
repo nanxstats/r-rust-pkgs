@@ -106,6 +106,8 @@ This is a list of all R packages using Rust on CRAN.
 
 ## I
 
+- [icebergr](https://cran.r-project.org/package=icebergr) - Read and
+  Write ‘Apache Iceberg’ Tables
 - [ipf](https://cran.r-project.org/package=ipf) - Iterative Proportional
   Fitting
 - [isodistrreg](https://cran.r-project.org/package=isodistrreg) -
@@ -117,6 +119,11 @@ This is a list of all R packages using Rust on CRAN.
   Segmentation, POS Tagging, and Keyword Extraction
 - [jsslintr](https://cran.r-project.org/package=jsslintr) - JSS
   ‘LaTeX’/‘BibTeX’ Style Checker
+
+## K
+
+- [koopman.dmd](https://cran.r-project.org/package=koopman.dmd) -
+  Koopman Operator and Dynamic Mode Decomposition for Dynamical Systems
 
 ## L
 
