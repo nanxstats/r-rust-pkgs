@@ -24,6 +24,8 @@ This is a list of all R packages using Rust on CRAN.
   R-ArcGIS Bridge Utility Functions
 - [arcpbf](https://cran.r-project.org/package=arcpbf) - Process ArcGIS
   Protocol Buffer FeatureCollections
+- [arity](https://cran.r-project.org/package=arity) - Format R Code with
+  Arity
 - [astgrepr](https://cran.r-project.org/package=astgrepr) - Parse and
   Manipulate R Code
 - [automerge](https://cran.r-project.org/package=automerge) - R Bindings
@@ -44,6 +46,10 @@ This is a list of all R packages using Rust on CRAN.
   Interface
 - [caviarpd](https://cran.r-project.org/package=caviarpd) - Cluster
   Analysis via Random Partition Distributions
+- [churon](https://cran.r-project.org/package=churon) - ‘ONNX Runtime’
+  Integration
+- [cidian](https://cran.r-project.org/package=cidian) - Read and Parse
+  Chinese Input-Method Dictionaries
 - [ciflyr](https://cran.r-project.org/package=ciflyr) -
   Reachability-Based Primitives for Graphical Causal Inference
 - [clarabel](https://cran.r-project.org/package=clarabel) - Interior
@@ -148,6 +154,8 @@ This is a list of all R packages using Rust on CRAN.
 
 ## P
 
+- [pdfsigner](https://cran.r-project.org/package=pdfsigner) - Digitally
+  Sign and Verify PDF Documents
 - [polyglotSQL](https://cran.r-project.org/package=polyglotSQL) - SQL
   Parsing, Analysis and Dialect Translation
 - [prqlr](https://cran.r-project.org/package=prqlr) - R Bindings for the
@@ -180,6 +188,8 @@ This is a list of all R packages using Rust on CRAN.
   Change-Point Detection via Nonparametric Inference
 - [sceua](https://cran.r-project.org/package=sceua) - Shuffled Complex
   Evolution Algorithm for Optimization
+- [sezgi](https://cran.r-project.org/package=sezgi) - Metaheuristic
+  Optimization with a ‘Rust’ Core
 - [smoothbp](https://cran.r-project.org/package=smoothbp) - Hierarchical
   Piecewise Regression with Smoothed Change-Points
 - [socratadata](https://cran.r-project.org/package=socratadata) -
@@ -196,6 +206,8 @@ This is a list of all R packages using Rust on CRAN.
   Full-Text Search for R with ‘Tantivy’
 - [tarpolyglot](https://cran.r-project.org/package=tarpolyglot) - Run
   Python, Julia, and Rust Inside ‘targets’ Pipeline Steps
+- [tera](https://cran.r-project.org/package=tera) - Generate Text and
+  Documents with the Tera Templating Engine
 - [tergo](https://cran.r-project.org/package=tergo) - Style Your Code
   Fast
 - [tinyimg](https://cran.r-project.org/package=tinyimg) - Optimize and
