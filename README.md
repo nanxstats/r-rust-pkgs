@@ -59,6 +59,8 @@ This is a list of all R packages using Rust on CRAN.
 
 - [datefixR](https://cran.r-project.org/package=datefixR) - Standardize
   Dates in Different Formats or with Missing Data
+- [delta.sharing](https://cran.r-project.org/package=delta.sharing) -
+  Client for the Delta Sharing Protocol
 - [dwg2geo](https://cran.r-project.org/package=dwg2geo) - Convert
   Engineering ‘DWG’ Drawings to Auditable ‘GeoJSON’
 
@@ -81,6 +83,8 @@ This is a list of all R packages using Rust on CRAN.
   Diagnostics for Hierarchical Models
 - [fio](https://cran.r-project.org/package=fio) - Friendly Input-Output
   Analysis
+- [foresightr](https://cran.r-project.org/package=foresightr) -
+  Forecasts Chosen by What Would Have Worked
 - [fozziejoin](https://cran.r-project.org/package=fozziejoin) -
   Utilities for Joining Dataframes with Inexact Matching
 - [freestiler](https://cran.r-project.org/package=freestiler) - Create
@@ -109,6 +113,8 @@ This is a list of all R packages using Rust on CRAN.
   String Case Converter
 - [hellorust](https://cran.r-project.org/package=hellorust) - Minimal
   Examples of Using Rust Code in R
+- [hobbs](https://cran.r-project.org/package=hobbs) - High Dimensional
+  Bayesian Omnibus Sampler
 
 ## I
 
