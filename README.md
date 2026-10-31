@@ -61,6 +61,8 @@ This is a list of all R packages using Rust on CRAN.
   Dates in Different Formats or with Missing Data
 - [delta.sharing](https://cran.r-project.org/package=delta.sharing) -
   Client for the Delta Sharing Protocol
+- [doubletrs](https://cran.r-project.org/package=doubletrs) -
+  Memory-Efficient Doublet Detection for Single-Cell RNA Sequencing
 - [dwg2geo](https://cran.r-project.org/package=dwg2geo) - Convert
   Engineering ‘DWG’ Drawings to Auditable ‘GeoJSON’
 
@@ -79,8 +81,12 @@ This is a list of all R packages using Rust on CRAN.
 - [fastgeojson](https://cran.r-project.org/package=fastgeojson) -
   High-Performance ‘GeoJSON’ and ‘JSON’ Serialization
 - [fcl](https://cran.r-project.org/package=fcl) - A Financial Calculator
+- [fereg](https://cran.r-project.org/package=fereg) - Fast Fixed-Effects
+  Estimation with the ‘fixest’ Interface
 - [fibr](https://cran.r-project.org/package=fibr) - Prior-Fraction
   Diagnostics for Hierarchical Models
+- [fieldopt](https://cran.r-project.org/package=fieldopt) - Area-Frame
+  and Dual-Frame Survey Design under Real Field Cost
 - [fio](https://cran.r-project.org/package=fio) - Friendly Input-Output
   Analysis
 - [foresightr](https://cran.r-project.org/package=foresightr) -
@@ -169,8 +175,12 @@ This is a list of all R packages using Rust on CRAN.
 
 ## R
 
+- [rapidxlsx](https://cran.r-project.org/package=rapidxlsx) - Fast
+  Parallel Excel Spreadsheet Writer
 - [rbm25](https://cran.r-project.org/package=rbm25) - A Light Wrapper
   Around the ‘BM25’ ‘Rust’ Crate for Okapi BM25 Text Search
+- [relm](https://cran.r-project.org/package=relm) - Local Large Language
+  Models as Base-R Objects
 - [rextendr](https://cran.r-project.org/package=rextendr) - Build ‘Rust’
   Powered ‘R’ Packages
 - [roxigraph](https://cran.r-project.org/package=roxigraph) - ‘RDF’ and
