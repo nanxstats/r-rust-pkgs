@@ -236,8 +236,6 @@ This is a list of all R packages using Rust on CRAN.
 
 - [unsum](https://cran.r-project.org/package=unsum) - Reconstruct Raw
   Data from Summary Statistics
-- [uuidx](https://cran.r-project.org/package=uuidx) - Modern UUIDs for R
-  with a Rust Backend
 
 ## W
 
